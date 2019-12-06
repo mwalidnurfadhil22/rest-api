@@ -1,0 +1,14 @@
+{
+	"nama" : "Walid",
+	"umur" : 20,
+	"nrp" : "173040079",
+	"lulus" : false,
+	"hobby" : [
+		"gaming",
+		"Reading"
+	],
+	"pembingbing" : {
+		"pembingbing1" : "Belum tahu",
+		"pembingbing2" : "Belum tahu"
+	}
+}
